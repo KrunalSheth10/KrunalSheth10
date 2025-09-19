@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @KrunalSheth10
-- 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning ...PGD in Embedded Systems Development course
+- 👋 Hi, I’m Krunal
+- 👀 I’m interested in Cloud Engineering Domain
+- 🌱 I’m currently learning ...Azure , Terraform, Kubernetes
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...www.linkedin.com/in/krunal-sheth2001
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...www.linkedin.com/in/krunalsheth2001
 
 <!---
 KrunalSheth10/KrunalSheth10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
